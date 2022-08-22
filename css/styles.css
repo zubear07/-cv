@@ -1,0 +1,117 @@
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    color: #11999E;
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    margin-top: 50px;
+    margin-bottom:0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem ;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color:  #66BFBF;
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+    color:#11999E;
+}
+hr{
+    width: 40px;
+    border-style: dotted;
+    border-width: 7px;
+    border-bottom: none;
+    margin: 60px auto 60px auto;
+    color: #EAF6F6;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #40514E;
+}
+.web{
+    text-decoration: underline;
+}
+.Top_Container{
+    background-color: #e6faf0;
+    position: relative;
+    padding-top: 100px;
+}
+.Middle_Container{
+   
+}
+.bottom-container{
+    background-color: #66BFBF;
+    height: 150px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.skill-row{
+    display: inline block;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skil{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chill{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.btn {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -webkit-gradient(to bottom, #66BFBF, #66BFBF);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 19px;
+    line-height: 19px;
+    color: #FFFFFF;
+    font-family: Arial;
+    width: 95px;
+    font-size: 14px;
+    font-weight: 100;
+    padding: 13px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 50px auto 50px auto;
+ }
+ .footer-link{
+    margin: 50px 20px 20px 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: #11999E;
+ }
+ .copyright{
+    color: #EAF6F6;
+ }
+ .tanjiro{
+    margin: 40px auto 40px auto;
+ }
+ .footer-link:hover{
+    color:#EAF6F6;
+ }
